@@ -1,1 +1,1 @@
-Just a sample of the site
+Terminal looking page
