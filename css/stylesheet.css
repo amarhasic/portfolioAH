@@ -28,7 +28,7 @@ body {
 
 h1 {
   color: var(--text-color);
-  font-size: 74px;
+  font-size: 50px;
   letter-spacing: -5px;
   margin-bottom: 20px;
 }
@@ -45,9 +45,9 @@ ul {
   list-style-type: none;
 }
 
-#link-1, #link-2, #link-3, #link-4, #link-5{
+/* #link-1, #link-2, #link-3, #link-4, #link-5{
   font-size: 25px;
-}
+} */
 
 a {
   color: var(--text-color);
@@ -79,6 +79,7 @@ nav ul li {
   justify-content: center;
   align-items: center;
 }
+
 
 .wb-body {
     background: #111;
