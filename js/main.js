@@ -45,7 +45,7 @@ contact.addEventListener("click", () => {
 });
 
 work.addEventListener("click", () => {
-  window.open("https://www.google.com/", "_blank");
+  window.open("https://lab.hasic.me/", "_blank");
   
 })
 
