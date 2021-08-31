@@ -17,7 +17,6 @@ html, body {
 
 
 
-
 body {
   font-family: "Roboto Mono", sans-serif;
   /* background-color: rgb(14, 11, 11); */
@@ -105,7 +104,7 @@ nav ul li {
 
 
 .wb-body {
-    background: #111;
+    background: rgb(0, 0, 0);
     padding: 20px;
     color: #FFD700;
 }
@@ -132,3 +131,4 @@ nav ul li {
     color: var(--text-color);
   }
 } 
+
