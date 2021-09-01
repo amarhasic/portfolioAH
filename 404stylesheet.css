@@ -1,0 +1,28 @@
+body {
+    background-color: #1F67B1;
+}
+
+#message {
+    position: relative;
+    height: 100vh;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 1000px;
+    min-width: 75%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    font-family: 'VT323', monospace;
+} 
+
+#message #p1 {
+    font-size: 75px;
+}
+#message #p2 {
+    font-size: 35px;
+}
+#message #p3 {
+    font-size: 25px;
+}
