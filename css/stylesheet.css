@@ -29,11 +29,18 @@ body{
       overflow: hidden;transform: translateY(-50%);
 }
 
+@media (max-width: 700px) {
+      .line {
+            font-size: 200%;
+      }
+}
+
+
 /*Animation*/
 
 .anim-typewriter {
-      animation: typewriter 3s steps(40) 1s 1 normal both,
-      blinkTextCursor 500ms steps(40) infinite normal;
+      animation: typewriter 1.2s steps(80) 1s 1 normal both,
+      blinkTextCursor 500ms steps(80) infinite normal;
 }
 
 
